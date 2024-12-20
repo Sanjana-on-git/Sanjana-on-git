@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  Let's Connect and have a Chat!💬
+  Let's chat, I'll bring the coffee!💬
 </h1>
 
 <p align="center">
